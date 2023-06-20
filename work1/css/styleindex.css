@@ -1,0 +1,27 @@
+.heading{
+    background-image: url("../images/img2.jpg");
+    height: 1000PX;
+    color: white;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+<<<<<<< HEAD
+=======
+a :hover{
+    background-color: chartreuse;
+
+}
+>>>>>>> 1727203 (wrk)
+.saree{
+    border: 2px solid black;
+ }
+.men{
+    border: 2px solid black;
+}
+.about{
+    text-align: center;
+}
+.pro{
+    padding: 2px;
+}
